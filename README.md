@@ -13,4 +13,4 @@ business insights and interactive visualizations.
 Python • pandas • Plotly • Gemini API • Streamlit
 
 ## Live Demo
-[Click here](ใส่ link Streamlit)
+[Click here](https://sales-dashboard-dem0.streamlit.app/)
